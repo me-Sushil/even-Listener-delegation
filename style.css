@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(209, 87, 87);
+   
+}
+
+.container{
+    background-color: antiquewhite;
+    margin: 32px;
+    width: 70%;
+}
+
+.btn {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 32px;
+    
+}
+.btnn {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 32px;
+    
+}
+
+/* [data-my-new-btn]{
+    background-color: blue;
+} */
